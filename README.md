@@ -13,7 +13,7 @@ O **App de Moda Feminina** é um aplicativo desenvolvido com *React Native* e *E
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 ![React Native](https://img.shields.io/badge/REACT%20NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -23,7 +23,7 @@ O **App de Moda Feminina** é um aplicativo desenvolvido com *React Native* e *E
 
 ---
 
-## 🧠 Como funciona
+## Como funciona
 
 - `useState`: guarda a lista de produtos.
 - `useEffect`: busca os dados quando o app abre.
@@ -32,7 +32,7 @@ O **App de Moda Feminina** é um aplicativo desenvolvido com *React Native* e *E
 
 ---
 
-## 🚀 Como rodar o projeto
+## Como rodar o projeto
 
 1. Abra a pasta do projeto no terminal.
 2. Instale as dependências:
